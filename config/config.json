@@ -1,0 +1,17 @@
+{
+  "CONTRACT_ADDRESS": "",
+  "SCAN_LINK": "https://etherscan.io",
+  "NETWORK": {
+    "NAME": "ether",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Undead Legion",
+  "SYMBOL": "Undead Legion",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 3000000000000000,
+  "DISPLAY_COST": 0.003,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io",
+  "SHOW_BACKGROUND": true
+}
